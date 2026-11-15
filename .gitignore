@@ -1,0 +1,20 @@
+Python cache files
+
+pycache/
+*.pyc
+*.pyo
+
+Virtual environment
+
+.venv/
+venv/
+
+IDE settings
+
+.vscode/
+
+Operating system files
+
+.DS_Store
+Thumbs.db
+desktop.ini
